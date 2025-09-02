@@ -65,7 +65,7 @@
 .B{
     background-color: hotpink;
     border-radius: 20px;
-    height: 190px;
+    height: 185px;
     width: 200px;
     margin-left: 10px;
     border-style: solid;
@@ -79,15 +79,17 @@
     border-radius: 20px;
     height: 100px;
     border-style: solid;
+    margin-right: 5px;
     
 
 }
 .E{
     background-color: hotpink;
     border-radius: 20px;
-    height: 190px;
+    height: 185px;
     width: 200px;
     margin-left: 10px;
+    margin-right: 5px;
     border-style: solid;
 }
    
@@ -97,7 +99,7 @@
     background-color: hotpink;
    
     border-radius: 20px;
-    height: 190px;
+    height: 185px;
     width: 200px;
     border-style: solid;
 
@@ -113,6 +115,13 @@
     height: 400px;
     border-radius: 20px;
     border-style: solid;
-    
+    margin-bottom: 0px;
+
+}
+.titulo{
+    background-color: darkgrey;
+    border-style: solid;
+    width:800px;
+    text-align: center;
 
 }
