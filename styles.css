@@ -1,0 +1,80 @@
+.container {
+    background-color: rgb(224, 217, 10);
+    height: 500px;
+    width: 800px;
+    text-align: center;
+    border-radius: 20px;
+    border-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+
+.F{
+    background-color: hotpink;
+    
+    border-bottom:10px ;
+    border-top: 10px;
+    border-left: 10px;
+    border-right: 10px;
+    border-radius: 20px;
+    text-align: center;
+    
+    
+}
+
+.B{
+    background-color: hotpink;
+    border-bottom:10px ;
+    border-top: 10px;
+    border-left: 10px;
+    border-right: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+.A{
+    background-color: hotpink;
+    border-bottom:10px ;
+    border-top: 10px;
+    border-left: 10px;
+    border-right: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+.E{
+    background-color: hotpink;
+    border-bottom:10px ;
+    border-top: 10px;
+    border-left: 10px;
+    border-right: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+.E{
+    background-color: hotpink;
+    border-bottom:10px ;
+    border-top: 10px;
+    border-left: 10px;
+    border-right: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+.C{
+    background-color: hotpink;
+    border-bottom:10px ;
+    border-top: 10px;
+    border-left: 10px;
+    border-right: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+.D{
+    background-color: hotpink;
+    border-bottom:10px ;
+    border-top: 10px;
+    border-left: 10px;
+    border-right: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
